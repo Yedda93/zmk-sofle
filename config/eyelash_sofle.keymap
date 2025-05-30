@@ -82,8 +82,8 @@
             bindings = <
 &kp N1          &kp N0          &trans           &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans  &trans
 &kp N7          &trans          &trans           &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&kp N2          &trans          &trans           &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans          &trans          &trans           &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&kp N5          &trans          &trans           &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&kp DELETE      &trans          &trans           &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans  &trans
 &trans          &trans          &trans           &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans
             >;
         };
