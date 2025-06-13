@@ -81,7 +81,7 @@
         layer_3 {
             bindings = <
 &kp DELETE     &trans          &trans           &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&numlock      &trans          &trans           &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&num_lock      &trans          &trans           &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans  &trans
 &trans         &trans          &trans           &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans  &trans
 &trans         &trans          &trans           &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans  &trans
 &trans         &trans          &trans           &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans
