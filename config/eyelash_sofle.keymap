@@ -81,7 +81,7 @@
         layer_3 {
             bindings = <
 &kp DELETE     &kp TILDE       &trans           &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans         &trans          &trans           &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans         &kp LEFT_GUI    &trans           &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans  &trans
 &trans         &trans          &trans           &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans  &trans
 &trans         &trans          &trans           &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans  &trans
 &trans         &trans          &trans           &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans
