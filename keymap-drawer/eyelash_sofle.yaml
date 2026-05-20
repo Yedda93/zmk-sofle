@@ -217,7 +217,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - KP 5
+  - {t: '$$mdi:transfer$$', type: trans}
   - KP 1
   - KP 6
   - {t: '$$mdi:transfer$$', type: trans}
