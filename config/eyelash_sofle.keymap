@@ -110,7 +110,7 @@
 
         layer_3 {
             bindings = <
-&trans      &trans       &trans           &trans  &trans  &trans    &trans  &trans  &kp KP_N0      &trans      &trans   &kp NUM     &trans
+&trans      &trans       &trans           &trans  &trans  &trans    &trans  &trans  &kp KP_N0      &trans      &trans   &kp KP_NUMLOCK     &trans
 &trans      &trans       &trans           &trans  &trans  &trans    &trans  &trans  &kp KP_N1   &kp KP_N2   &kp KP_N3   &kp UNDER    &kp PLUS
 &trans      &trans       &trans           &trans  &trans  &trans    &trans  &trans  &kp KP_N4   &kp KP_N5   &kp KP_N6   &kp LBRC     &kp RBRC
 &trans      &trans       &trans           &trans  &trans  &trans    &trans  &trans  &kp KP_N7   &kp KP_N8   &kp KP_N9   &trans  &trans
